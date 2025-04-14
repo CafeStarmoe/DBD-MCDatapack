@@ -1,0 +1,19 @@
+{
+    "criteria": {
+    "example": {
+      "trigger": "minecraft:entity_hurt_player",
+      "conditions": {
+        "damage": {
+          "source_entity": {
+            "type": "minecraft:player",
+			"team": "killer"
+          }
+        }
+      }
+    }
+  },
+    "rewards":{
+        "function":"game:survivor_hurted"
+        }
+	}
+}

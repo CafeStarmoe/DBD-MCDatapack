@@ -1,0 +1,2 @@
+setblock -212 4 -399 minecraft:air
+data merge block -219 6 -400 {Text1:"[\"\"]",Text2:"{\"text\":\"系统正在处理数据\",\"bold\":true,\"color\":\"yellow\"}",Text3:"{\"text\":\"请耐心等待\",\"bold\":true,\"color\":\"yellow\"}"}

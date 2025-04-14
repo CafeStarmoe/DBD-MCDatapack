@@ -1,0 +1,2 @@
+tellraw @s ["",{"text":"YuCraft ","bold":true,"color":"dark_red"},{"text":">> ","color":"dark_aqua"},{"text":"您获得了","color":"green"},{"text":"电机修理加速 x1","color":"gold"}]
+give @p minecraft:paper{display:{Name:"[{\"text\":\"电机修理加速(按F使用)\",\"color\":\"green\",\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false}]"},Tags:["b1"],HideFlags:63} 1

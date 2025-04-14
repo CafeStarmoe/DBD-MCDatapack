@@ -1,0 +1,2 @@
+tellraw @s ["",{"text":"YuCraft ","bold":true,"color":"dark_red"},{"text":">> ","color":"dark_aqua"},{"text":"您获得了","color":"green"},{"text":"治疗","color":"gold"}]
+effect give @s minecraft:regeneration 2 4 true

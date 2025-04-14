@@ -1,0 +1,2 @@
+title @a[team=survivor,x=-268,y=34,z=-507,distance=..1] times 0 20 0
+title @a[team=survivor,x=-268,y=34,z=-507,distance=..1] actionbar ["",{"text":"破译中，还剩","color":"green"},{"score":{"name":"door2","objective":"door"},"color":"gold"},{"text":"秒","color":"green"}]

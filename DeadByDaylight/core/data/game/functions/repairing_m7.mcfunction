@@ -1,0 +1,2 @@
+title @a[x=-282,y=42,z=-448,distance=..2,team=survivor] times 0 20 0
+title @a[x=-282,y=42,z=-448,distance=..2,team=survivor] actionbar ["",{"text":"修理中，请等待","color":"gold"},{"score":{"name":"second","objective":"m7"},"bold":true,"color":"green"},{"text":"秒","color":"gold"}]

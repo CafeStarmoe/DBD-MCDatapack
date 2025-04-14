@@ -1,0 +1,2 @@
+tellraw @s ["",{"text":"YuCraft ","bold":true,"color":"dark_red"},{"text":">> ","color":"dark_aqua"},{"text":"您获得了","color":"green"},{"text":"不死图腾 x1","color":"gold"}]
+give @s minecraft:totem_of_undying

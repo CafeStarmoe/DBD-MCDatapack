@@ -1,0 +1,2 @@
+tellraw @s ["",{"text":"YuCraft ","bold":true,"color":"dark_red"},{"text":">> ","color":"dark_aqua"},{"text":"您获得了","color":"green"},{"text":"迅捷效果(15s)","color":"gold"}]
+effect give @s minecraft:speed 15 1 true
